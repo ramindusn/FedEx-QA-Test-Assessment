@@ -28,7 +28,7 @@ End of the run cucumber report will get open in the browser with passed failed r
 
 ### Solution
 I used page object model to the automation framework with Cucumber BBD.
-And did the exception handling with proper error message indicating which class, which method is throwing the error. (Syntax for error message--> "Error-'<ClassName>'-'<MethodName>'" )
+And did the exception handling with proper error message indicating which class, which method is throwing the error. (Syntax for error message--> "Error-'ClassName'-'MethodName'" )
 Feature directory is where all the feature files are located. Used scenario outlines to support multiple data sets to test.
 Pages directory is my logical layer where all the page classes are located.
 Stepdefinition directory is my assertion layer where definition to the step is define.
