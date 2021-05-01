@@ -1,5 +1,3 @@
-# Read the ASSESSMENT
-
 The assessment information is located in the file: [ASSESSMENT.MD](./ASSESSMENT.MD)
 
 # NodeJS version
