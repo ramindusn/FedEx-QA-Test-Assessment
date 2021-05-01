@@ -1,20 +1,18 @@
 # E2E test framework using Protractor
 
-The assessment information is located in the file: [ASSESSMENT.MD](./ASSESSMENT.MD)
-
-# NodeJS version
+## NodeJS version
 
 Currently the project works with **NODEJS 10 LTS** environment. Please make sure you MAC/PC has a 10.x node version installed. (https://nodejs.org/dist/latest-v10.x/). You can also try NODEJS 12 LTS as an experiment but support has not been verified. 
 
 Run ```node -v``` in a terminal to see which version of NodeJS you have
 
-# Protractor
+## Protractor
 
 You most likely need to install protractor globally: ```npm install -g protractor ```
 
 Note: __We do not accept assessments that are completed with a framework other than Protractor__
 
-# App specs
+## App specs
 
 Welcome to our Star Wars Search web application. Our app is for the Star Wars enthusiasts who would like to find some information for some of their favorite characters and planets.
 
