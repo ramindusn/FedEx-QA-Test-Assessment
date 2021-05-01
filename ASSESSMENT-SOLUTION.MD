@@ -1,15 +1,15 @@
 # Soulution
 
-# Installation
+### Installation
 npm install 
 
-# Run
+### Run
 npm run e2e
 
-# Report
+### Report
 End of the run cucumber report will get open in the browser with passed failed results with attaching failed step screenshots.
 
-### Solution
+
 I used page object model to the automation framework with Cucumber BBD.
 And did the exception handling with proper error message indicating which class, which method is throwing the error. (Syntax for error message--> "Error-'ClassName'-'MethodName'" )
 Feature directory is where all the feature files are located. Used scenario outlines to support multiple data sets to test.
